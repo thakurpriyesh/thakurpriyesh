@@ -42,7 +42,7 @@
 ### 🐍 Watch My Contributions Eat The Snake 🐍
 
 <p align="center">
-  <img src="https://github.com/thakurpriyesh/thakurpriyesh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/thakurpriyesh/thakurpriyesh/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
